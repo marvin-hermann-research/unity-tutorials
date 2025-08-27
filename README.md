@@ -26,19 +26,6 @@ I created these tutorials both to consolidate my own understanding and to provid
 This project originated as a self-study initiative, driven by a personal interest in Unity and content creation.  
 It represents the convergence of software development learning with creative expression, reflecting my long-standing engagement in digital content creation since childhood.
 
-## Architecture / Structure
-The project follows a modular structure with separate directories for source code, assets, and documentation:
-
-
-```bash
-project_folder/
-├── src/
-├── assets/
-├── docs/
-└── README.md
-```
-
-
 ## Lessons Learned
 - Consolidating multiple tutorials into one project improved my understanding of how Unity components interact.
 - Simplifying complex mechanics into minimal, reproducible examples was essential for deep learning.
