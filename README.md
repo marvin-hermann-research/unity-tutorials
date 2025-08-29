@@ -22,6 +22,8 @@ The project serves as an organized reference for learning and experimenting with
 During my initial Unity learning attempts, I struggled to fully grasp essential concepts and needed three separate tries before a game jam forced me to truly understand them. Most online tutorials I found were either too complex or skipped fundamental details.  
 I created these tutorials both to consolidate my own understanding and to provide clear, beginner-friendly guidance for others, complementing the video tutorials I produced on my YouTube channel: [Pneuma Studios](https://www.youtube.com/@Pneuma-Studios).
 
+<img width="1028" height="858" alt="image" src="https://github.com/user-attachments/assets/3cd6e3b4-c716-4dbd-a62c-72d6fa2f5b6f" />
+
 ## Project Context / Scope
 This project originated as a self-study initiative, driven by a personal interest in Unity and content creation.  
 It represents the convergence of software development learning with creative expression, reflecting my long-standing engagement in digital content creation since childhood.
